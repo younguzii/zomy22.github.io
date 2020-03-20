@@ -1,3 +1,4 @@
-### Walkthroughs for hack the box machines, Vulnhub, CTF's etc ...
+## Walkthroughs for hack the box machines, Vulnhub, CTF's etc ...
 
-LateComerz
+[Craft - Medium](https://zomy22.github.io/hackthebox/craft)
+[Forest -Medium](https://zomy22.github.io/hackthebox/forest)
